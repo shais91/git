@@ -6,3 +6,6 @@ code fine
 this is fun 
 fine by me 
 i know hot to git
+git is VCS
+version control system
+github is main server
